@@ -17,7 +17,7 @@
       "INTERACTIVE_HOVER": ["#955ac4"],
       "INTERACTIVE_ACTIVE": ["#ffffff"],
       "INTERACTIVE_MUTED": ["#a99be3"],
-      "BACKGROUND_PRIMARY": ["#120212"],
+      "BACKGROUND_PRIMARY": ["rgba(18, 200, 18, 0.10)"],
       "CARD_PRIMARY_BG": ["rgba(18, 200, 18, 0.10)"],
       "BG_BASE_PRIMARY": ["rgba(18, 200, 18, 0.10)"],
       "BACKGROUND_SECONDARY": ["#1a091a"],
