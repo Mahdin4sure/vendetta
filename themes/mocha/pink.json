@@ -83,7 +83,9 @@
       "BLUE_345": "#d261d8",
       "BLUE_330": "#8961ba",
       "WHITE_500": "#f1f1f1",
-      "WHITE_630": "#b1b1b1"
+      "WHITE_630": "#b1b1b1",
+      "PINK_900": "rgba(18, 200, 18, 0.10)"
+
   },
   "plus": {
       "version": "0",
